@@ -1,0 +1,9 @@
+torch==2.6.0
+transformers==4.51.1
+peft==0.15.1
+accelerate>=1.0,<2
+numpy>=1.26,<3
+pandas>=2.2,<3
+tqdm>=4.66
+wandb>=0.19
+# Install flash-attn==2.7.4.post1 separately for your PyTorch/CUDA environment.
